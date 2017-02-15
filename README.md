@@ -1,2 +1,2 @@
 # tampermonkey-svtplay
-Fixes svtplay text position
+Fixes the svtplay subtitles position
